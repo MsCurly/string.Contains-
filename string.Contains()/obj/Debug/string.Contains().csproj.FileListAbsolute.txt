@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\bin\Debug\@string.Contains__.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\bin\Debug\@string.Contains__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\bin\Debug\@string.Contains__.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\obj\Debug\string.Contains().csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\obj\Debug\string.Contains().csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\obj\Debug\@string.Contains__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Contains()\string.Contains()\obj\Debug\@string.Contains__.pdb
